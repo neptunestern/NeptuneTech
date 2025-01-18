@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #555;
+}
+.laptop {
+    background: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.harga {
+    font-weight: bold;
+    color: #007BFF;
+}
+.kelebihan {
+    font-style: italic;
+    color: #555;
+}
